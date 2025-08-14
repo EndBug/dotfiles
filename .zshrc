@@ -109,3 +109,5 @@ export PATH="$DENO_INSTALL/bin:$PATH"
 
 # Necessary for gpg signing
 export GPG_TTY=$(tty)
+
+alias c='cursor .'
